@@ -1,8 +1,10 @@
 # Project 2: Outline
-    The goal of this project is to analyze housing data from Ames, Iowa, create models, and participate in an online Kaggle competition with the models I created. After cleaning and preparing the data to be fed into the model, and using a long loop to find the perfect combination of features, I created a linear model with Ridge regression that could adequately predict future housing data based upon a long list of data points. 
+
+The goal of this project is to analyze housing data from Ames, Iowa, create models, and participate in an online Kaggle competition with the models I created. After cleaning and preparing the data to be fed into the model, and using a long loop to find the perfect combination of features, I created a linear model with Ridge regression that could adequately predict future housing data based upon a long list of data points. 
    
 # Description of Data
-    This data set was truly vast, and after feature creation and dummy variables, each row had 147 columns! I focused in on SalePrice as my predictor target, and these 46 features as my predictor features:
+
+This data set was truly vast, and after feature creation and dummy variables, each row had 147 columns! I focused in on SalePrice as my predictor target, and these 46 features as my predictor features:
     
     
 | Name                 | Description                                           |   |
